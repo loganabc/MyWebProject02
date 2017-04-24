@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<student idcard="5555">
+		<name>张三</name>
+		<location>上海</location>
+		<grade>10</grade>
+	</student>
+	<student idcard="6666">
+		<name>李四</name>
+		<location>上海</location>
+		<grade>10</grade>
+	</student>
+	
+<student idcard="7777"><name>王六</name><location>北京</location><grade>10.0</grade></student></class>
